@@ -1,0 +1,40 @@
+segment_sources:
+  IFFC31524:
+    type: origin_type
+    relation: translation
+    language: en
+  I2F469C52:
+    type: origin_type
+    relation: translation
+    language: de
+  IF98962F8:
+    type: origin_type
+    relation: translation
+    language: es
+  I5AEF754E:
+    type: origin_type
+    relation: translation
+    language: fr
+  I3F9EA287:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  448b61c6c0484ff3afc221787fb0d904:
+    IFFC31524: da07b8ceac914e668a3971b908e021e5
+    I2F469C52: e16b82c1113a485083026f8d8ea3b224
+    IF98962F8: bc82f71508a642169bc23ce7a7eac057
+    I5AEF754E: 758a25e132b44f3da669c5e02f2aacdf
+    I3F9EA287: e0dbf17867cf4b33b44b2bfca1b36d83
+  8b39107470354b919465237864774124:
+    IFFC31524: 191b6fc0b79e4647b078252913a6bec9
+    I2F469C52: fd5d8ba7fc7a43f8b6f77cfc537e8630
+    IF98962F8: 13d1679c4c8544fd9c05d9dc6435083c
+    I5AEF754E: 7434fd5d172a4701a082b2efeeed2891
+    I3F9EA287: 8c2fd523eec1476c905ac14f096ccef7
+  be0ff0868b9e4d07a563bdc3ca864418:
+    IFFC31524: fce4c79655d549b7803b63ac55ef8f13
+    I2F469C52: None
+    IF98962F8: None
+    I5AEF754E: None
+    I3F9EA287: 0fcdedbc62004ecf8a93d0a396872b38
